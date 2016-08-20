@@ -1,4 +1,4 @@
-#Match Captcha
+#Math Captcha
 
 Today's challenge is to write a Captcha system that uses math questions to distinguish humans from bots.
 
